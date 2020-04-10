@@ -26,7 +26,9 @@ SVM is used to predict the future trend of the coronavirus.
 ## Polynomial regression 
 
 Polynomial regression is a form of regression analysis in which the relationship between the independent variable x and the dependent variable y is modelled as an nth degree polynomial in x. Polynomial regression fits a nonlinear relationship between the value of x and the corresponding conditional mean of y, denoted E.
-Polynomial regression is used to predict the future of mortality rate, recovries and new confirmed cases. 
+
+
+Graphing the number of confirmed cases, active cases, deaths. 
 
 
 ![](https://github.com/Tangent007/COVID-19_time_series_data/blob/master/index1.png)
